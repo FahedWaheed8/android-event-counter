@@ -43,10 +43,3 @@ The application consists of three primary screens:
 **Institution:** Concordia University  
 **Date:** October 2026  
 **Project Type:** Individual Academic Assignment
-
-## Future Improvements
-
-- Add options to reset individual counters and event history.
-- Export recorded events to CSV.
-- Improve the user interface and data visualization.
-- Add automated tests for input validation and counting logic.
